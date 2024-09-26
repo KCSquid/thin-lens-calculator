@@ -18,7 +18,7 @@ fn input() -> String {
 
 fn main() {
     const YELLOW: &str = "\x1b[33m";
-    const GREEN: &str = "\x1b[31m";
+    const GREEN: &str = "\x1b[32m";
     const BLUE: &str = "\x1b[34m";
     const MAGENTA: &str = "\x1b[35m";
     const ENDL: &str = "\x1b[0m";
